@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# WHITELIST NFT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+1. There are a total of 20 LagCoin NFTs that can ever exist and a maximum of 10 users.
 
-Try running some of the following tasks:
+2. Users should be allowed to only mint 1 NFT per transaction
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+3. Whitelisted users should be able to mint the NFT for free
+
+4. Other users need to pay 0.01 ETH to mint the NFT
+
+5. Owner of the contract can withdraw all the ETHs in the contract
