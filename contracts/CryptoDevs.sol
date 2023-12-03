@@ -7,7 +7,7 @@ import "./Whitelist.sol";
 
 contract CryptoDevs is ERC721Enumerable, Ownable {
     //  _price is the price of one Crypto Dev NFT
-    uint256 constant public _price = 0.000000001 ether;
+    uint256 constant public _price = 0.01 ether;
 
     // Max number of CryptoDevs that can ever exist
     uint256 constant public maxTokenIds = 20;
