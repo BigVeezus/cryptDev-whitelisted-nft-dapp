@@ -1,6 +1,6 @@
 # WHITELIST NFT
 
-1. There are a total of 20 LagCoin NFTs that can ever exist and a maximum of 10 users.
+1. There are a total of 20 CyptDevs NFTs that can ever exist and a maximum of 10 users.
 
 2. Users should be allowed to only mint 1 NFT per transaction
 
